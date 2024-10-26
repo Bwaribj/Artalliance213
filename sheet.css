@@ -748,11 +748,10 @@ img{
 }
 
 .footer .socials a{
-    border: 1.5px solid rgb(43, 69, 3);
+    border: 1.5px solid rgb(255, 255, 255);
     width: 35px;
     height: 31px;
-    color: white;
-    
+    color: white;    
     margin-top: 8px;
     margin-right: 5px;
     text-align: center;
