@@ -748,12 +748,12 @@ img{
 }
 
 .footer .socials a{
-    border: 1.5px solid rgb(43, 69, 3);
+    
     width: 35px;
     height: 31px;
     color: white;
     padding-top: 15px;
-    
+    margin-top: 8px;
     margin-right: 5px;
     text-align: center;
     display: inline-block;
